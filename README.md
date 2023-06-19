@@ -1,6 +1,6 @@
 # Projeto de Cadastro de Pessoa
 
-Este é um projeto de exemplo que gerencia o cadastro de pessoas.
+Este é um projeto que gerencia o cadastro de pessoas.
 
 ## Requisitos
 
