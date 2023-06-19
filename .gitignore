@@ -1,0 +1,14 @@
+# Arquivos compilados
+target/
+build/
+
+# Dependências do Gradle
+.gradle/
+
+# Arquivos de configuração IDE
+.idea/
+.vscode/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
