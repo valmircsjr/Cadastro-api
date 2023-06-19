@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vcsjr.cadastro.service.PessoaServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-19T18:25:16" hostname="MacBook-Pro-de-Valmir.local" time="0.037">
+  <properties/>
+  <testcase name="testGetTipoIdentificadorWithInvalidIdentificador()" classname="com.vcsjr.cadastro.service.PessoaServiceTest" time="0.033"/>
+  <testcase name="testGetTipoIdentificadorWithCPF()" classname="com.vcsjr.cadastro.service.PessoaServiceTest" time="0.001"/>
+  <testcase name="testGetTipoIdentificadorWithCNPJ()" classname="com.vcsjr.cadastro.service.PessoaServiceTest" time="0.0"/>
+  <testcase name="testCadastrarPessoa()" classname="com.vcsjr.cadastro.service.PessoaServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
